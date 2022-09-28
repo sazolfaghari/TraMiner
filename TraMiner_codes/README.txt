@@ -1,7 +1,7 @@
 This folder includes the code used in the paper:
  
 TraMiner: Vision-based Analysis of Locomotion Traces for Cognitive Assessment in Smart-homes, 
-by Samaneh Zolfaghari, Elham Khodabandehloo and Daniele Riboni, submitted to Cognitive Computation Special Issue on Advances in Deep Learning for Clinical and Healthcare Applications
+by Samaneh Zolfaghari, Elham Khodabandehloo and Daniele Riboni, publishe in Cognitive Computation Special Issue on Advances in Deep Learning for Clinical and Healthcare Applications
 
 The full dataset is available here: http://casas.wsu.edu/datasets/assessmentdata.zip
 In this dataset the sensors can be categorized by:
